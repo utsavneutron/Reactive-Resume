@@ -1,0 +1,2 @@
+# Reactive Resume
+ An online version of my 2020 resume I made for fun. I was interested in learning React.js, so I found this <a class="underline-link" href="https://medium.com/learning-new-stuff/building-your-first-react-js-app-d53b0c98dc#.1439cdewq">simple tutorial</a> and it kind of spun into this weekend project. It was a fun way to learn React. Plus, I finally used the Headshot picture I had taken the year before.
